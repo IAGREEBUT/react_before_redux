@@ -1,0 +1,10 @@
+sn_sw
+spn
+mc_1
+mc_2
+mc_3
+mc_4
+mc_5
+short_ans
+sw_page_num
+page_num
